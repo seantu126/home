@@ -13,6 +13,14 @@ This is a description of a teaching experience. You can use markdown like any ot
 Heading 1
 ======
 
+I study
+
+$$
+\begin{align} 
+  y_n = \sum_{i=1}^n x_i 
+\end{align}
+$$
+
 Heading 2
 ======
 
